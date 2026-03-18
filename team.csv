@@ -1,0 +1,65 @@
+region,rank,team,team2
+s,1,Auburn,NA
+s,16,Alabama St,St Francis PA
+s,8,Louisville,NA
+s,9,Creighton,NA
+s,5,Michigan,NA
+s,12,UCSD,NA
+s,4,Texas A&M,NA
+s,13,Yale,NA
+s,6,Mississippi,NA
+s,11,San Diego St,North Carolina
+s,3,Iowa St,NA
+s,14,Lipscomb,NA
+s,7,Marquette,NA
+s,10,New Mexico,NA
+s,2,Michigan St,NA
+s,15,Bryant,NA
+w,1,Florida,NA
+w,16,Norfolk St,NA
+w,8,UConn,NA
+w,9,Oklahoma,NA
+w,5,Memphis,NA
+w,12,Colorado St,NA
+w,4,Maryland,NA
+w,13,Grand Canyon,NA
+w,6,Missouri,NA
+w,11,Drake,NA
+w,3,Texas Tech,NA
+w,14,NC Wilmington,NA
+w,7,Kansas,NA
+w,10,Arkansas,NA
+w,2,St John's,NA
+w,15,Nebraska,NA
+e,1,Duke,NA
+e,16,American,Mt St Mary's
+e,8,Mississippi St,NA
+e,9,Baylor,NA
+e,5,Oregon,NA
+e,12,Liberty,NA
+e,4,Arizona,NA
+e,13,Akron,NA
+e,6,BYU,NA
+e,11,VCU,NA
+e,3,Wisconsin,NA
+e,14,Montana,NA
+e,7,Saint Mary's,NA
+e,10,Vanderbilt,NA
+e,2,Alabama,NA
+e,15,Robert Morris,NA
+mw,1,Houston,NA
+mw,16,SIU Edward,NA
+mw,8,Gonzaga,NA
+mw,9,Georgia,NA
+mw,5,Clemson,NA
+mw,12,McNeese,NA
+mw,4,Purdue,NA
+mw,13,High Point,NA
+mw,6,Illinois,NA
+mw,11,Texas,Xavier
+mw,3,Kentucky,NA
+mw,14,Troy,NA
+mw,7,UCLA,NA
+mw,10,Utah St,NA
+mw,2,Tennessee,NA
+mw,15,Wofford,NA
