@@ -1,0 +1,68 @@
+game,round,p_bottom
+0,First Four,0.4965
+1,First Four,0.4838
+2,First Four,0.5166
+3,First Four,0.5403
+4,Round of 64,0.0356
+5,Round of 64,0.5748
+6,Round of 64,0.1798
+7,Round of 64,0.1314
+8,Round of 64,0.4244
+9,Round of 64,0.0723
+10,Round of 64,0.3841
+11,Round of 64,0.0564
+12,Round of 64,0.0167
+13,Round of 64,0.3922
+14,Round of 64,0.1995
+15,Round of 64,0.1826
+16,Round of 64,0.2761
+17,Round of 64,0.1027
+18,Round of 64,0.3433
+19,Round of 64,0.0732
+20,Round of 64,0.0245
+21,Round of 64,0.5014
+22,Round of 64,0.2145
+23,Round of 64,0.1457
+24,Round of 64,0.2039
+25,Round of 64,0.0975
+26,Round of 64,0.3928
+27,Round of 64,0.0573
+28,Round of 64,0.0261
+29,Round of 64,0.4711
+30,Round of 64,0.2111
+31,Round of 64,0.1875
+32,Round of 64,0.1543
+33,Round of 64,0.1043
+34,Round of 64,0.4552
+35,Round of 64,0.0543
+36,Round of 32,0.0686
+37,Round of 32,0.5303
+38,Round of 32,0.8652
+39,Round of 32,0.8938
+40,Round of 32,0.0205
+41,Round of 32,0.4739
+42,Round of 32,0.7336
+43,Round of 32,0.8292
+44,Round of 32,0.0309
+45,Round of 32,0.6385
+46,Round of 32,0.7613
+47,Round of 32,0.8867
+48,Round of 32,0.0424
+49,Round of 32,0.5331
+50,Round of 32,0.6326
+51,Round of 32,0.8813
+52,Sweet 16,0.1205
+53,Sweet 16,0.6234
+54,Sweet 16,0.0224
+55,Sweet 16,0.5269
+56,Sweet 16,0.0465
+57,Sweet 16,0.7225
+58,Sweet 16,0.0553
+59,Sweet 16,0.7580
+60,Elite 8,0.3779
+61,Elite 8,0.0315
+62,Elite 8,0.0905
+63,Elite 8,0.1256
+64,Final Four,0.0638
+65,Final Four,0.3775
+66,Championship,0.2343
